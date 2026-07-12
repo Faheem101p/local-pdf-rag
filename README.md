@@ -22,21 +22,23 @@ A local Retrieval-Augmented Generation (RAG) chatbot built with Python, Streamli
 
 # Screenshots
 
-## Home Page
+### Main Interface
 
-![Home](assets/home.png)
+<p align="center">
+  <img src="assets/home.png" width="800">
+</p>
 
----
+### Chat Example
 
-## PDF Upload
+<p align="center">
+  <img src="assets/chat.png" width="800">
+</p>
 
-![Upload](assets/upload.png)
+### Sidebar Settings
 
----
-
-## Chat Interface
-
-![Chat](assets/chat.png)
+<p align="center">
+  <img src="assets/sidebar.png" width="350">
+</p>
 
 ## Run
 
