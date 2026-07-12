@@ -20,6 +20,24 @@ A local Retrieval-Augmented Generation (RAG) chatbot built with Python, Streamli
 - Ollama
 - PyPDF
 
+# Screenshots
+
+## Home Page
+
+![Home](assets/home.png)
+
+---
+
+## PDF Upload
+
+![Upload](assets/upload.png)
+
+---
+
+## Chat Interface
+
+![Chat](assets/chat.png)
+
 ## Run
 
 ```bash
