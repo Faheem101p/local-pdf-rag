@@ -27,12 +27,3 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
----
-
-## Step 3: Commit
-
-Once `git status` shows only the files you want:
-
-```bash
-git add .
-git commit -m "Initial commit: Local PDF RAG chatbot"
