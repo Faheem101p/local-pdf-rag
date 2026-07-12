@@ -7,25 +7,25 @@ A local Retrieval-Augmented Generation (RAG) chatbot built with Python, Streamli
 ### Main Interface
 
 <p align="center">
-  <img src="assets/home.png" width="800">
+  <img src="assets/home.png" width="400">
 </p>
 
 ### Chat Example
 
 <p align="center">
-  <img src="assets/chat.png" width="800">
+  <img src="assets/chat.png" width="400">
 </p>
 
 ### Source Settings
 
 <p align="center">
-  <img src="assets/source.png" width="350">
+  <img src="assets/source.png" width="400">
 </p>
 
 ## Architecture
 
 <p align="center">
-  <img src="assets/architecture.png" width="850">
+  <img src="assets/architecture.png" width="400">
 </p>
 
 ## Features
