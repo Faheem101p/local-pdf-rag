@@ -63,7 +63,7 @@ def build_and_save_knowledge_base():
     index.add(embeddings)
     
     faiss.write_index(index, CONFIG["INDEX_PATH"])
-    np.save(METADATA_PATH, np.array(chunks_metadata, dtype = object))
+    np.save(CONFIG["METADATA_PATH"], np.array(chunks_metadata, dtype = object))
     print("Knowlede base successfully saved locally!\n")
     return index, chunks_metadata
 
