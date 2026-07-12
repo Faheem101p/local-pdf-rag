@@ -2,24 +2,6 @@
 
 A local Retrieval-Augmented Generation (RAG) chatbot built with Python, Streamlit, FAISS, Sentence Transformers, and Ollama.
 
-## Features
-
-- Upload PDF documents
-- Semantic search using FAISS
-- Local LLM inference with Ollama
-- Conversation memory
-- Source page citations
-- Streamlit web interface
-
-## Tech Stack
-
-- Python
-- Streamlit
-- FAISS
-- Sentence Transformers
-- Ollama
-- PyPDF
-
 # Screenshots
 
 ### Main Interface
@@ -39,6 +21,30 @@ A local Retrieval-Augmented Generation (RAG) chatbot built with Python, Streamli
 <p align="center">
   <img src="assets/source.png" width="350">
 </p>
+
+## Architecture
+
+<p align="center">
+  <img src="assets/architecture.png" width="850">
+</p>
+
+## Features
+
+- Upload PDF documents
+- Semantic search using FAISS
+- Local LLM inference with Ollama
+- Conversation memory
+- Source page citations
+- Streamlit web interface
+
+## Tech Stack
+
+- Python
+- Streamlit
+- FAISS
+- Sentence Transformers
+- Ollama
+- PyPDF
 
 ## Run
 
