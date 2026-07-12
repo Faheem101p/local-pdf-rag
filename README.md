@@ -37,7 +37,7 @@ A local Retrieval-Augmented Generation (RAG) chatbot built with Python, Streamli
 ### Sidebar Settings
 
 <p align="center">
-  <img src="assets/sidebar.png" width="350">
+  <img src="assets/source.png" width="350">
 </p>
 
 ## Run
